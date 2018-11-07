@@ -1,5 +1,5 @@
 # BSC5-parser
-Simple parser for the []Yale's Bright Star Catalog 5](http://tdc-www.harvard.edu/catalogs/bsc5.html) written in C#
+Simple parser for the [Yale's Bright Star Catalog 5](http://tdc-www.harvard.edu/catalogs/bsc5.html) written in C#
 
 
 ## Header
