@@ -21,7 +21,7 @@ Integer*4 NBENT=32	Number of bytes per star entry
 ## Entry
 Each catalog entry in <i>BSC5</i> and <i>BSC5ra</i> contains 32 bytes with
 the following information:
-````
+```
 Real*4 XNO		Catalog number of star
 Real*8 SRA0		B1950 Right Ascension (radians)
 Real*8 SDEC0		B1950 Declination (radians)
